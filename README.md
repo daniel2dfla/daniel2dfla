@@ -2,7 +2,7 @@
 ## Oii , me chamo Daniel Nascimento , desenvolvedor full-stack.
 
 - 🧑‍🎓 Atualmente sou estudante da Labenu.
-- 😉 Pronouns: ele/dele
+- 😉 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/daniel2dfla">
