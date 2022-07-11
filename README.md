@@ -25,6 +25,8 @@
 <div>
   <a href="https://www.linkedin.com/in/daniel-firmiano-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/daniel.naascimento/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.udemy.com/user/daniel-nascimento-firmiano/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
+  <a href="https://cursos.alura.com.br/user/daniel-2dfla" target="_blank"><img src="http://img.shields.io/static/v1?label=ALURA&message=DEV&color=blue&style=for-the-badge" target="_blank"></a>
 </div>
 
 ##
