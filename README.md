@@ -4,6 +4,8 @@
 - 🧑‍🎓 Atualmente sou estudante da Labenu.
 - 😉 Pronomes: ele/dele
 
+   🌟Uma mente que se abre a uma nova ideia, jamais voltará ao seu tamanho original.🌟
+
 <div align="center">
   <a href="https://github.com/daniel2dfla">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=daniel2dfla&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
