@@ -1,5 +1,5 @@
 
-## Oii , sou o Daniel Nascimento , desenvolvedor full-stack.
+## Oi , sou o Daniel Nascimento , desenvolvedor full-stack.
 
 - 🧑‍🎓 Atualmente sou estudante da Labenu.
 - 😉 Pronomes: ele/dele
