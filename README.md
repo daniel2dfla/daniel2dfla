@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Daniel+Nascimento;Eu+tenho+27+anos+e+sou+um+desenvolvedor+Full-Stack;Constante+e+incansavelmente+estudando+e+aprendendo;Sejam+bem-vindos+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Daniel+Nascimento;Sou+um+desenvolvedor+Full-Stack;Sejam+bem-vindos+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
 
 
 - 🧑‍🎓 Atualmente sou estudante da Labenu.
