@@ -4,7 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Daniel+Nascimento;Sou+um+desenvolvedor+Full-Stack;Sejam+bem-vindos+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
 
 
-- 🧑‍🎓 Atualmente sou estudante da Labenu.
+- 🧑‍🎓 Desenvolvedor Front-end com bootcamp de FullStack na Labenu, atualmente fazendo curso de DevOps pelo programa Desenvolve do Grupo Boticário em parceria com a Alura, e cursando Análise e Desenvolvimento de Sistemas na Anhanguera.
+- 
 - 😉 Pronomes: ele/dele
 
    🌟Uma mente que se abre a uma nova ideia, jamais voltará ao seu tamanho original.🌟
