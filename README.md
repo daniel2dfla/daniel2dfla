@@ -5,8 +5,7 @@
 
 
 - 🧑‍🎓 Desenvolvedor Front-end com bootcamp de FullStack na Labenu, atualmente fazendo curso de DevOps pelo programa Desenvolve do Grupo Boticário em parceria com a Alura, e cursando Análise e Desenvolvimento de Sistemas na Anhanguera.
-- 
-- 😉 Pronomes: ele/dele
+- - 😉 Pronomes: ele/dele
 
    🌟Uma mente que se abre a uma nova ideia, jamais voltará ao seu tamanho original.🌟
 
