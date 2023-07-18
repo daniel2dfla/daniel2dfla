@@ -11,8 +11,6 @@
 - 😉 Pronomes: ele/dele
 
    🌟Uma mente que se abre a uma nova ideia, jamais voltará ao seu tamanho original.🌟
-   
- -  [Portfolio](https://vulgar-touch.surge.sh/)
 
 <div align="center">
   <a href="https://github.com/daniel2dfla">
