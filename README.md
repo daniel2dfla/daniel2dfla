@@ -19,6 +19,8 @@
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel2dfla&layout=compact&langs_count=7&theme=gotham"/> 
 </div>
 
+### [Portfólio](https://portfolio-2-0-six-ruddy.vercel.app/)
+
 ##
 
 
