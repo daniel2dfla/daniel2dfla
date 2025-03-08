@@ -9,9 +9,35 @@
  DevOps pelo programa Desenvolve do Grupo Boticário, formação de 6 meses com total de 480 horas.
 - Cursando ensino superior em Análise e Desenvolvimento de Sistema na instituição de ensino Anhanguera.
 - Estagiário de desenvolvimento focado em backend, com 1 ano de experiência trabalhando com Java.
-- 😉 Pronomes: ele/dele
 
-   🌟Uma mente que se abre a uma nova ideia, jamais voltará ao seu tamanho original.🌟
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Mais um pouco sobre mim... 
+```javascript
+const Daniel = {
+    pronomes: "Ele" | "Dele",
+    linguagem: ["TypeScript", "Javascript", "Java"],
+    tecnologias: {
+        frontEnd: {
+            js: ["React"],
+            css: ["Styled Component"],
+        },
+        backEnd: {
+            js: ["SpringBoot", "Node", "Express", "NestJS"]
+        },
+        devOps: ["Docker🐳", "CI/CD", "GitHub"],
+        cloudServices: {
+            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "MySql"]
+    },
+    architecture: {
+        backEnd: ["Microsserviços", "Monolitico"],
+    },
+    curiosidade: ["Eu consigo codar mais rápido com um café na mão!"],
+    hobbie: ["Assistir séries", "Viajar"],
+    sonho: ["Comprar um motorhome e viajar pelo Brasil!"]
+};
+```
 
 ## 📈 Estatísticas do GitHub
 
