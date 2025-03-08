@@ -7,32 +7,35 @@
 - 🧑‍🎓 Focado em resolver problemas de forma segura, escalável, estável, performática e orientada pelas boas práticas de mercado.
  Formação FullStack pelo Bootcamp da Labenu, domínio em CSS, HTML, JavaScript, TypeScript, React. 
  DevOps pelo programa Desenvolve do Grupo Boticário, formação de 6 meses com total de 480 horas.
- Cursando ensino superior em Análise e Desenvolvimento de Sistema na instituição de ensino Anhanguera.
+- Cursando ensino superior em Análise e Desenvolvimento de Sistema na instituição de ensino Anhanguera.
 - Estagiário de desenvolvimento focado em backend, com 1 ano de experiência trabalhando com Java.
 - 😉 Pronomes: ele/dele
 
    🌟Uma mente que se abre a uma nova ideia, jamais voltará ao seu tamanho original.🌟
+
+## 📈 Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/daniel2dfla">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=daniel2dfla&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel2dfla&layout=compact&langs_count=7&theme=gotham"/> 
 </div>
-
+   
+## 🚀 Projetos em Destaque
+   
 ### [Portfólio](https://portfolio-2-0-six-ruddy.vercel.app/)
 
 ##
+## 🛠️ Tecnologias e Ferramentas
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Daniel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 
-
+## 📫 Contato
 <div>
   <a href="https://www.linkedin.com/in/daniel-firmiano-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/daniel.naascimento/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
