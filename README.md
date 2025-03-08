@@ -22,7 +22,8 @@ const Daniel = {
             css: ["Styled Component"],
         },
         backEnd: {
-            js: ["SpringBoot", "Node", "Express", "NestJS"]
+            js: ["Node", "Express", "NestJS"],
+            java: ["SpringBoot]
         },
         devOps: ["Docker🐳", "CI/CD", "GitHub"],
         cloudServices: {
