@@ -23,7 +23,7 @@ const Daniel = {
         },
         backEnd: {
             js: ["Node", "Express", "NestJS"],
-            java: ["SpringBoot]
+            java: ["SpringBoot"]
         },
         devOps: ["Docker🐳", "CI/CD", "GitHub"],
         cloudServices: {
