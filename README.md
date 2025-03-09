@@ -4,11 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Daniel+Nascimento;Sou+um+desenvolvedor+backend;Sejam+bem-vindos+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
 
 
-- 🧑‍🎓 Focado em resolver problemas de forma segura, escalável, estável, performática e orientada pelas boas práticas de mercado.
+- Programador Backend com 1 ano de experiência trabalhando com linguagem java.
 - Formação FullStack pelo Bootcamp da Labenu, domínio em CSS, HTML, JavaScript, TypeScript, React. 
 - DevOps pelo programa Desenvolve do Grupo Boticário, formação de 6 meses com total de 480 horas.
 - Cursando ensino superior em Análise e Desenvolvimento de Sistema na instituição de ensino Anhanguera.
-- Estagiário de desenvolvimento focado em backend, com 1 ano de experiência trabalhando com Java.
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Mais um pouco sobre mim... 
