@@ -5,8 +5,8 @@
 
 
 - 🧑‍🎓 Focado em resolver problemas de forma segura, escalável, estável, performática e orientada pelas boas práticas de mercado.
- Formação FullStack pelo Bootcamp da Labenu, domínio em CSS, HTML, JavaScript, TypeScript, React. 
- DevOps pelo programa Desenvolve do Grupo Boticário, formação de 6 meses com total de 480 horas.
+- Formação FullStack pelo Bootcamp da Labenu, domínio em CSS, HTML, JavaScript, TypeScript, React. 
+- DevOps pelo programa Desenvolve do Grupo Boticário, formação de 6 meses com total de 480 horas.
 - Cursando ensino superior em Análise e Desenvolvimento de Sistema na instituição de ensino Anhanguera.
 - Estagiário de desenvolvimento focado em backend, com 1 ano de experiência trabalhando com Java.
 
