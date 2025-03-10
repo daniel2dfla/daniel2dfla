@@ -1,24 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Daniel+Nascimento;I+am+a+backend+developer;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Daniel+Nascimento;Sou+um+desenvolvedor+backend;Sejam+bem-vindos+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
+- Backend developer with 1 year of experience working with Java.
+- FullStack training from the Labenu Bootcamp, proficient in CSS, HTML, JavaScript, TypeScript, and React.
+- DevOps training through the Desenvolve program by Grupo Boticário, a 6-month course totaling 480 hours.
+- Currently pursuing a degree in Systems Analysis and Development at Anhanguera University.
 
-
-- Programador Backend com 1 ano de experiência trabalhando com linguagem java.
-- Formação FullStack pelo Bootcamp da Labenu, domínio em CSS, HTML, JavaScript, TypeScript, React. 
-- DevOps pelo programa Desenvolve do Grupo Boticário, formação de 6 meses com total de 480 horas.
-- Cursando ensino superior em Análise e Desenvolvimento de Sistema na instituição de ensino Anhanguera.
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Mais um pouco sobre mim... 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```javascript
 const Daniel = {
-    pronomes: "Ele" | "Dele",
-    linguagem: ["TypeScript", "Javascript", "Java"],
-    tecnologias: {
+    pronouns: "He" | "Him",
+    languages: ["TypeScript", "JavaScript", "Java"],
+    technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["Styled Component"],
+            css: ["Styled Components"],
         },
         backEnd: {
             js: ["Node", "Express", "NestJS"],
@@ -28,31 +25,31 @@ const Daniel = {
         cloudServices: {
             aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch"],
         },
-        databases: ["PostgreSQL", "MongoDB", "MySql"]
+        databases: ["PostgreSQL", "MongoDB", "MySQL"]
     },
     architecture: {
-        backEnd: ["Microsserviços", "Monolitico"],
+        backEnd: ["Microservices", "Monolithic"],
     },
-    curiosidade: ["Eu consigo codar mais rápido com um café na mão!"],
-    hobbie: ["Assistir séries", "Viajar"],
-    sonho: ["Comprar um motorhome e viajar pelo Brasil!"]
+    curiosity: ["I can code faster with a coffee in hand!"],
+    hobbies: ["Watching series", "Traveling"],
+    dream: ["Buy a motorhome and travel around Brazil!"]
 };
 ```
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Statistics
 
 <div align="center">
   <a href="https://github.com/daniel2dfla">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=daniel2dfla&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel2dfla&layout=compact&langs_count=7&theme=gotham"/> 
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel2dfla&layout=compact&langs_count=7&theme=gotham"/>
 </div>
    
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
    
-### [Portfólio](https://portfolio-2-0-six-ruddy.vercel.app/)
+### [Portfolio](https://portfolio-2-0-six-ruddy.vercel.app/)
 
 ##
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -60,8 +57,8 @@ const Daniel = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 
-## 📫 Contato
+##
+## 📫 Contact
 <div>
   <a href="https://www.linkedin.com/in/daniel-firmiano-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/daniel.naascimento/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -72,3 +69,4 @@ const Daniel = {
 ##
    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
+
