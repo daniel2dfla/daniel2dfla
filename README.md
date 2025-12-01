@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Daniel+Nascimento;I+am+a+backend+developer;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
-- Backend developer with 1 year of experience working with Java.
+- Backend developer with 1 year of experience working with TypeScript/Java.
 - FullStack training from the Labenu Bootcamp, proficient in CSS, HTML, JavaScript, TypeScript, and React.
 - DevOps training through the Desenvolve program by Grupo Boticário, a 6-month course totaling 480 hours.
 - Currently pursuing a degree in Systems Analysis and Development at Anhanguera University.
